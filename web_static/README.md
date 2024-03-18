@@ -11,7 +11,7 @@ This project is a basic static website replicating core functionalities of an Ai
 ### Running the Project:
 
 Ensure you have a web browser installed (e.g., Chrome, Firefox).  
-Open the `index.html` file in your web browser to view the website.
+Open the `[#]-index.html` files in your web browser to view the website.
 
 ### Note:
 
