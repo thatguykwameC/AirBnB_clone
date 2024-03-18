@@ -26,7 +26,6 @@ button:hover {
   cursor: pointer;
 }
 
-/* Add styling to locations and amenities */
 .locations,
 .amenities {
   height: 100%;
